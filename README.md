@@ -1,1 +1,1 @@
-# game2
+# Box Class
